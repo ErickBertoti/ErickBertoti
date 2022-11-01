@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick_hoffmannb/?hl=pt-br)
 
-[![Twitter](https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ErickHoffmann7/?hl=pt-br)
+[![Twitter](https://img.shields.io/badge/Twitter-4887B7?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ErickHoffmann7/?hl=pt-br)
 
 ![Erick Bertoti GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickBertoti&show_icons=true&theme=dracula)
 
