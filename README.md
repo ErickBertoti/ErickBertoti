@@ -1,4 +1,4 @@
-### 👋 Olá! Meu nome é **Erick Hoffmann Bertoti**
+### Olá! Meu nome é **Erick Hoffmann Bertoti**
 
 Sou um desenvolvedor apaixonado por tecnologia e por transformar ideias em soluções reais. Tenho experiência em **desenvolvimento web e backend**, utilizando linguagens e frameworks modernos para criar aplicações escaláveis, performáticas e com interfaces intuitivas.
 
