@@ -14,7 +14,7 @@ Busco sempre aprender novas ferramentas e evoluir em projetos que unam **perform
 
 ---
 
-## Skills
+## Tecnologias
 <div align="center" style="display: inline_block"><br>
    <p align="center">
       <a href="#">
