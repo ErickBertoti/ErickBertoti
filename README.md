@@ -18,7 +18,7 @@ Busco sempre aprender novas ferramentas e evoluir em projetos que unam **perform
 <div align="center" style="display: inline_block"><br>
    <p align="center">
       <a href="#">
-         <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,spring,python,html,css,tailwind,bootstrap,postgres,mysql,mongodb,docker,git,github,linux,aws,gcp,firebase,postman,vscode,figma" />
+         <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,golang,java,spring,python,html,css,tailwind,bootstrap,supabase,postgres,mysql,mongodb,docker,git,github,linux,aws,gcp,firebase,postman,vscode,figma" />
       </a>
    </p>
 </div>
