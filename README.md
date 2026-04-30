@@ -27,7 +27,7 @@ Busco sempre aprender novas ferramentas e evoluir em projetos que unam **perform
 
 ## Contato
 <div align="center"> 
-   <a href="https://www.linkedin.com/in/erick-hoffmann-bertoti/" target="_blank">
+   <a href="https://www.linkedin.com/in/erick-hoffmann-b52b41271/" target="_blank">
       <img width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
 </div>
