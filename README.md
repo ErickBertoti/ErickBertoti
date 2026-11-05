@@ -28,9 +28,9 @@ Plan workouts on the Mac and log them on the iPhone, even offline. Data is store
 
 `SwiftUI` `SwiftData` `Supabase` `PostgreSQL`
 
-### [Expenses Counter](https://expenses-counter-pi.vercel.app)
+### [Expenses Counter](https://github.com/ErickBertoti/expenses-counter)
 
-Tracks credit card installments and monthly expenses in a dashboard that works on desktop and mobile, with email and password sign-in and automated tests. Live app, login required.
+Tracks credit card installments and monthly expenses in a dashboard that works on desktop and mobile, with email and password sign-in and automated tests. [Live app](https://expenses-counter-pi.vercel.app), sign-in required.
 
 `Next.js` `TypeScript` `Supabase` `Vitest`
 

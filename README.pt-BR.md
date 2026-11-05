@@ -28,9 +28,9 @@ Planeje treinos no Mac e registre no iPhone, mesmo offline. Os dados ficam salvo
 
 `SwiftUI` `SwiftData` `Supabase` `PostgreSQL`
 
-### [Contador de Despesas](https://expenses-counter-pi.vercel.app)
+### [Contador de Despesas](https://github.com/ErickBertoti/expenses-counter)
 
-Controla parcelas de cartão de crédito e despesas mensais em um painel que funciona no computador e no celular, com login por e-mail e senha e testes automatizados. App no ar, com login obrigatório.
+Controla parcelas de cartão de crédito e despesas mensais em um painel que funciona no computador e no celular, com login por e-mail e senha e testes automatizados. [App no ar](https://expenses-counter-pi.vercel.app), com login obrigatório.
 
 `Next.js` `TypeScript` `Supabase` `Vitest`
 
